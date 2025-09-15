@@ -81,8 +81,8 @@
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/kunalkeshav/)  
-- 📝 [Portfolio/Blog](https://YOUR-PORTFOLIO.com)  
-- 📧 Email: your@email.com  
+- 📝 [Portfolio/Blog](https://kunalkeshav.xyz/)  
+- 📧 Email: kunalkeshav2002@gmail.com  
 
 ---
 ⭐️ From [iamkunalkeshav](https://github.com/iamkunalkeshav)
