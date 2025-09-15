@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kunal Keshav  
 
-💻 **Aspiring Backend & DevOps Engineer | Cloud Enthusiast | AI Explorer**  
+💻 ** Backend & DevOps Engineer | Cloud Enthusiast | AI Explorer**  
 
 🚀 Passionate about building scalable systems, automating workflows, and deploying applications on the cloud.  
 
