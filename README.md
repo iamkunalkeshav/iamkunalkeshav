@@ -10,7 +10,7 @@
 - 🔭 Currently working on **DevOps + Backend Projects**  
 - 🌱 Learning **Cloud (AWS/GCP), Docker, Jenkins, Kubernetes, and System Design**  
 - ⚡ Exploring **AI-powered Infrastructure & MLOps**  
-- 💬 Ask me about **Python | Linux | CI/CD | Cloud | DSA**  
+- 💬 Ask me about **Java | Linux | CI/CD | Cloud | DSA**  
 
 ---
 
