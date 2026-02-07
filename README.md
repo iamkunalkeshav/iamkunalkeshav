@@ -60,14 +60,6 @@
 - 🔹 **Job Application Tracker with Resume Analysis** *(In Progress)*  
   *Backend system to track applications and analyze resumes using NLP techniques*  
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkunalkeshav&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
 
 ---
 
