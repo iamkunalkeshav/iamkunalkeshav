@@ -51,9 +51,8 @@
 ## 📂 Featured Projects
 
 - 🔹 **Streamlit Finance Dashboard**  
-  *Financial data visualization dashboard with real-time insights*  
-  🔗 https://github.com/iamkunalkeshav/streamlit-finance-dashboard  
-
+  *Financial data visualization dashboard with real-time insights*
+  
 - 🔹 **Real-Time Log Analyzer & Alert System** *(In Progress)*  
   *Log ingestion, pattern detection, and alerting system using backend + DevOps stack*  
 
