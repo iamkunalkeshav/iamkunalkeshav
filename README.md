@@ -65,8 +65,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamkunalkeshav&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkunalkeshav&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkunalkeshav&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 
