@@ -84,8 +84,8 @@ Built and integrated MCP servers for agentic tool use — enabling LLMs to inter
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalkeshav&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkeshav&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamkunalkeshav&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkunalkeshav&layout=compact&theme=default&hide_border=true" height="150"/>
 </div>
 
 ---
