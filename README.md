@@ -16,7 +16,7 @@
 
 I'm an AI Engineer at **Accenture** (Bengaluru), building production-grade agentic AI systems and RAG pipelines for enterprise clients. Currently working on the **Chubb** insurance engagement — designing multi-agent workflows, retrieval pipelines, and LLM-powered APIs that run in production.
 
-Pursuing **M.Tech in CSE** at PES University (2028–29) alongside full-time work.
+Pursuing **M.Tech in CSE** at PES University (2026–28) alongside full-time work.
 
 - 🤖 Building agentic systems with **LangGraph** and **LangChain** in production
 - 🔍 Designing and optimizing **RAG pipelines** for enterprise-scale document intelligence
